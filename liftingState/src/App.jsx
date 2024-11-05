@@ -1,9 +1,10 @@
 import React from 'react'
 import './App.css'
+import { LiftStateUp } from './LiftStateUp'
 
 const App = () => {
   return (
-    <div>App</div>
+    <LiftStateUp/>
   )
 }
 
